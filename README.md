@@ -9,43 +9,51 @@ Learning React, Next.js, and diving into DevOps tools.
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"
+<img align="left" alt="JavaScript" width="30px" height="60px" style="padding-right:10px;"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;"
+<img align="left" alt="TypeScript" width="30px" height="60px" style="padding-right:10px;"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;"
+<img align="left" alt="HTML" width="30px" height="60px" style="padding-right:10px;"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;"
+<img align="left" alt="CSS" width="30px" height="60px" style="padding-right:10px;"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;"
+<img align="left" alt="React" width="30px" height="60px" style="padding-right:10px;"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" />
-<img align="left" alt="NextJS" width="30px" style="padding-right:10px;"
+<img align="left" alt="NextJS" width="30px" height="60px" style="padding-right:10px;"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" />
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;"
+<img align="left" alt="TailwindCSS" width="30px" height="60px" style="padding-right:10px;"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px; object-position:center;"
+<img align="left" alt="NodeJS" width="30px" height="60px" style="padding-right:10px; object-position:center;"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" />
-<img align="left" alt="ExpressJS" width="30px" style="padding-right:10px;"
+<img align="left" alt="ExpressJS" height="60px" width="30px" style="padding-right:10px;"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;"
+<img align="left" alt="MongoDB" height="60px" width="30px" style="padding-right:10px;"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;"
+<img align="left" alt="PostgreSQL" height="60px" width="30px" style="padding-right:10px;"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" />
-<img align="left" alt="Prisma" width="30px" style="padding-right:10px;"
+<img align="left" alt="Prisma" height="60px" width="30px" style="padding-right:10px;"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Prisma.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;"
+<img align="left" alt="Docker" height="60px" width="30px" style="padding-right:10px;"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;"
+<img align="left" alt="Git" height="60px" width="30px" style="padding-right:10px;"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;"
+<img align="left" alt="GitHub" height="60px"  width="30px" style="padding-right:10px;"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" />
-<img align="left" alt="Postman" width="30px" style="padding-right:10px;"
+<img align="left" alt="Postman" height="60px"  width="30px" style="padding-right:10px;"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;"
+<img align="left" alt="Figma" height="60px" width="30px" style="padding-right:10px;"
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+
+    
+<br />
+<br />
 <br />
 
 #
+
+<br />
+<br />
+
 
 
 <p align="center">
