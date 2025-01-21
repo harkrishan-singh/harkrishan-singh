@@ -1,96 +1,71 @@
-<h1>Hi 👋, I'm Harkrishan!</h1>
-<p>I am a full-stack developer. </p>
-<h2>🚀 Languages and Tools I Use</h2>
-</div>
-<h3>Programming Languages</h3>
-<a target="_blank"
-    href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    style="display: inline-block; margin-right: 10px; "><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" width="30" height="30" /></a>
-<a target="_blank"
-    href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    style="display: inline-block;"><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript" width="30" height="30" /></a>
-</div>
-<div>
-    <h3>Frontend Dev</h3>
-    <a target="_blank"
-        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        style="display: inline-block;"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="36" height="36" /></a>
-    <a target="_blank"
-        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        style="display: inline-block;"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="36" height="36" /></a>
-    <a target="_blank"
-        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        style="display: inline-block;"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="32" height="32" /></a>
-    <a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-        style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-            alt="tailwind" width="34" height="34" /></a>
-    <a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg"
-        style="display: inline-block;  "><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg"
-            alt="framer" width="30" height="30" /></a>
-    <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img
-            src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="auto" height="32" /></a>
-</div>
-<div>
-    <h3>Backend Dev</h3>
-    <a target="_blank"
-        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        style="display: inline-block;"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="32" height="32" /></a>
-    <a target="_blank"
-        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        style="display: inline-block;"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="32" height="32" /></a>
-</div>
-<div>
-    <h3>Database</h3>
-    <a target="_blank"
-        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        style="display: inline-block;"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="32" height="32" /></a>
-    <a target="_blank"
-        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        style="display: inline-block;"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="32" height="32" /></a>
-</div>
-<div>
-    <h3>Devops</h3>
-    <a target="_blank"
-        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-        style="display: inline-block;"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="32" height="32" /></a>
-</div>
-<div>
-    <h3>Tools</h3>
-    <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /></a>
-    <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-        style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-            alt="postman" width="30" height="30" /></a>
-    <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-        style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
-            width="30" height="30" /></a>
-</div>
+# ⚡️ Harkrishan Singh
 
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/harkrishan__" style="display: inline-block;"><img
-            src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419"
-            alt="twitter" /></a>
-    <a target="_blank" href="https://www.instagram.com/harkrishan__" style="display: inline-block;"><img
-            src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369"
-            alt="instagram" /></a>
+**`Cloud Engineer | Full Stack Web Developer`**
+
+I’m an Oracle Cloud Engineer at PwC India and a freelance full-stack web developer who loves building websites and
+creating practical solutions. I enjoy experimenting with new technologies and working on personal projects.
+
+Learning React, Next.js, and diving into DevOps tools.
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" />
+<img align="left" alt="NextJS" width="30px" style="padding-right:10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" />
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px; object-position:center;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" />
+<img align="left" alt="ExpressJS" width="30px" style="padding-right:10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" />
+<img align="left" alt="Prisma" width="30px" style="padding-right:10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Prisma.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" />
+<img align="left" alt="Postman" width="30px" style="padding-right:10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" />
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+<br />
+
+#
+
+
+<p align="center">
+    <img align="center" alt="Coding" width="100" style="border-radius:100%;"
+        src="https://i.giphy.com/PTBVMsYIOB0SBP4MVe.webp" />
+        <br />
+        <br />
+    <b align="center">Ping me, let's chat code!</b>
+<p align="center">
+    <a href="https://twitter.com/harkrishan__" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="twitter.com/harkrishan__" height="25" width="50" /></a>
+    <a href="https://linkedin.com/in/harkrishan-singh-a12880237/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="linkedin.com/in/harkrishan-singh-a12880237" height="25" width="50" /></a>
+    <a href="https://instagram.com/harkrishan__" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="instagram.com/harkrishan__" height="25" width="50" /></a>
+    <a href="mailto:harkrishansingh1406@gmail.com" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg"
+            alt="harkrishansingh1406@gmail.com" height="28" width="50" /></a>
+</p>
 </p>
